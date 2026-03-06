@@ -14,6 +14,10 @@ These techniques aren't perfect and WILL be detected by AVs!(Educational only)
   
 - `evildll.cpp`  
   PoC script which is used with dllinject.cpp as the DLL. (Before using you will need to          compile this file into an DLL via g++. For troubleshooting see down below at
+
+- `tokensteal.cpp`  
+  A script which steals a token and impersonates an user with it.
+  
   **Prerequisites**
 
 
